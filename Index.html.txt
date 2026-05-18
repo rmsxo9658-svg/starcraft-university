@@ -4,9 +4,9 @@
   <meta charset="utf-8">
   <meta property="og:title" content="🎓 스타크래프트 대학교 (S.U)">
   <meta property="og:description" content="S.U 자체 매칭 및 전적 관리 시스템. 지금 등교하세요!">
-  <meta property="og:image" content="https://i.imgur.com/사용할이미지주소.png">
+  <meta property="og:image" content="https://i.imgur.com/https://i.imgur.com/A4Kfg81.png">
   
-  <meta http-equiv="refresh" content="0; url=https://script.google.com/macros/s/자신의_구글앱_실제주소/exec">
+  <meta http-equiv="refresh" content="0; url=https://script.google.com/macros/s/AKfycbxeg0XUiBwpn_SRvGHXV8xbMRTmBePqEZmwnk26bEJHo-LEbdA45A_fU2FF8AuM-lRctQ/exec">
 </head>
 <body>
   <p>스타크래프트 대학교(S.U)로 이동 중입니다...</p>
